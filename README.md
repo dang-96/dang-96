@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=0,25&fontColor=000000&height=200&text=Hello!%20I'm%20JeongHun&fonSize=30&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=0,25&fontColor=000000&height=200&text=Hello!%20I'm%20JeongHun&fonSize=20&fontAlignY=45)
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 
