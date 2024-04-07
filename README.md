@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,3&height=300&section=header&text=Hello I'm JeongHun%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,3&height=300&section=header&text=Hello I'm JeongHun&fontSize=90)
 
 <!--
 **youmdang/youmdang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
