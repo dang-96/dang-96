@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=blue&height=150&section=header" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 
 <!--
 **youmdang/youmdang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
