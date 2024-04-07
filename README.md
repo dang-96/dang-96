@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=0,25&fontColor=000000&height=200&text=Hello!%20I'm%20JeongHun&fonSize=30&fontAlignY=45)
 
+<h3 align="center">✨ Tech Stack ✨</h3>
+
 <!--
 **youmdang/youmdang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
