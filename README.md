@@ -2,6 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=0,25&fontColor=000000&height=200&text=Hello!%20I'm%20JeongHun&fonSize=20&fontAlignY=45" />
 </div>
 
+<h3 align="center">📄 About Me 📄</h3>
+<div align="center">
+  <a href="https://fair-verdict-78d.notion.site/1d5426fffa2b80d18a94eef7e7eda19b">Portfolio</a>
+</div>
+<br>
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
