@@ -4,7 +4,7 @@
 
 <h3 align="center">📄 About Me 📄</h3>
 <div align="center">
-  <a href="https://fair-verdict-78d.notion.site/1d5426fffa2b80d18a94eef7e7eda19b](https://dang-96.github.io/jh-portfolio/">Portfolio</a>
+  <a href="https://dang-96.github.io/jh-portfolio/">Portfolio</a>
 </div>
 <br>
 
